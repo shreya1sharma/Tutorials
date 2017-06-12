@@ -1,0 +1,33 @@
+**Basic conda commands:**
+conda info
+conda info --envs
+conda list
+python --versions
+conda create -n (environment name) python = (version)
+activate (environment name)
+deactivate (environment name)
+conda remove -n (env name) --all
+
+conda install (package-name)
+conda install -n (env name) (package name)
+conda install -c (source repository) (package name)
+conda update (package-name)
+conda remove -n (env name) (package name)
+
+Basic PIP commands:
+
+pip install (package-name)
+pip install (package wheel file) http://www.lfd.uci.edu/~gohlke/pythonlibs/
+
+API-check functions of particular version of package
+While installing packages, find compatibility between: package version+ python version + OS(windows/linux/MAC)
+
+Must installed packages:
+numpy
+scipy
+scikit-image
+pandas
+matplotlib
+opencv
+gdal
+pyqt
