@@ -2,7 +2,9 @@
 """
 Created on Thu Sep 28 16:37:43 2017
 
-@author: hoge
+@author: shreya
+
+Reference: https://www.datacamp.com/community/tutorials/machine-learning-python#gs.NeE=TmU
 """
 
 from sklearn import datasets
