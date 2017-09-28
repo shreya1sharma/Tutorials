@@ -1,2 +1,2 @@
-# Python-Basics
-This repository contains tutorials on basic syntax, numpy, pandas, matplotlib and scikit.
+# Tutorials
+This repository contains tutorials I practiced from several resources
